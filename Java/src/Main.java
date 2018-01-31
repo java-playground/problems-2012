@@ -1,9 +1,9 @@
-import probs.prob5.Prob5;
+import probs.prob7.Prob7;
 
 public class Main {
     public static void main(String[] args) {
 
-        new Prob5();
+        new Prob7();
 
     }
 }
