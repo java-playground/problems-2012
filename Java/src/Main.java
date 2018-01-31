@@ -11,7 +11,7 @@ import probs.prob9.Prob9;
 public class Main {
     public static void main(String[] args) {
 
-        new Prob9();
+        new Prob8();
 
     }
 }
