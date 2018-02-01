@@ -1,4 +1,5 @@
 import probs.prob1.*;
+import probs.prob10.Prob10;
 import probs.prob2.*;
 import probs.prob3.*;
 import probs.prob4.*;
@@ -11,7 +12,7 @@ import probs.prob9.Prob9;
 public class Main {
     public static void main(String[] args) {
 
-        new Prob8();
+        new Prob10();
 
     }
 }
