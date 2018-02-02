@@ -14,5 +14,8 @@ public class Main {
 
         new Prob10();
 
+        // this only works for problems 1-10
+        // for problem 11 on, each java file is standalone
+
     }
 }
