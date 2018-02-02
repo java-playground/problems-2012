@@ -1,5 +1,3 @@
-package CLASSPACKAGE;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -7,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class CLASS_NAME {
+public class Prob00 {
 
     public static void doTask(String input) {
 
@@ -15,10 +13,10 @@ public class CLASS_NAME {
 
     }
 
-    public CLASS() {
+    public static void main() {
 
         Charset charset = Charset.forName("US-ASCII");
-        Path path = Paths.get("./Java/src/probs/prob6/Prob06.in.txt").toAbsolutePath();
+        Path path = Paths.get("./Prob00.in.txt").toAbsolutePath();
         try(BufferedReader bf = Files.newBufferedReader(path, charset)) {
 
             String line = null;
