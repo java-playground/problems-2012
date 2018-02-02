@@ -13,7 +13,7 @@ public class Prob00 {
 
     }
 
-    public static void main() {
+    public static void main(String[] args) {
 
         Charset charset = Charset.forName("US-ASCII");
         Path path = Paths.get("./Prob00.in.txt").toAbsolutePath();
