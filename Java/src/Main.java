@@ -12,7 +12,7 @@ import probs.prob9.Prob9;
 public class Main {
     public static void main(String[] args) {
 
-        new Prob10();
+        new Prob9();
 
         // this only works for problems 1-10
         // for problem 11 on, each java file is standalone
